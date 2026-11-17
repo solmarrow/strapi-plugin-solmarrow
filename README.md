@@ -52,7 +52,7 @@ Super Admins have both. Senders must also be allowed to read the entry in the Co
 ## Develop
 
 ```bash
-npm ci
+npm install
 npm test          # unit tests (text building, requests, errors)
 npm run typecheck
 npm run build
